@@ -35,5 +35,5 @@ int main()
 	int a[] = {14,8,26,30,38,2};
 	int n = sizeof(a)/sizeof(a[0]);
 	bubbleSort(a,n);
-	printSorted(a,n);
+	printSorted(a,n); 
 }
